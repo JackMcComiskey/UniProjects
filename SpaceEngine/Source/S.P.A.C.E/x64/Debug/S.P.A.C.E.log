@@ -1,0 +1,43 @@
+﻿  main.cpp
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\skybox.h(11): warning C4114: same type qualifier used more than once
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\room.h(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\room.h(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\roomdetails.h(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\console_object.h(68): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(279): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(280): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(574): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(575): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(576): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(577): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(580): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(581): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(582): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(583): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(727): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(728): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(729): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(730): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(733): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(734): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(735): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(736): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1201): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1202): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1203): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1211): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1212): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1213): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1372): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1373): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1374): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1405): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1407): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1675): warning C4005: 'WIDTH': macro redefinition
+  c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(36): note: see previous definition of 'WIDTH'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1676): warning C4005: 'HEIGHT': macro redefinition
+  c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(37): note: see previous definition of 'HEIGHT'
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1745): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jackm\onedrive\documents\visual studio 2015\projects\spacengine\s.p.a.c.e\main.cpp(1760): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  S.P.A.C.E.vcxproj -> C:\Users\jackm\OneDrive\Documents\Visual Studio 2015\Projects\SPACEngine\x64\Debug\S.P.A.C.E.exe
